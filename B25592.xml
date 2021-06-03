@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Lady Gray vindicated: being an answer to a popish pamphlet, entituled A true relation, of a strange apparition that appeared to the Lady Gray, commanding her to deliver a message to his Grace the Duke of Monmouth..</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B25592</idno><idno type="EEBO-CITATION">99890806</idno>
+  <idno type="VID">193669</idno>
+  <idno type="EEBO-PROQUEST">2240920631</idno>
+  
+            <idno type="OCLC"> 11965079</idno>
+            <idno type="STC">Wing L165</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.2[18]</idno>
+            <idno type="STC">ESTC R6191</idno>
+            <idno type="PROQUEST">ocm99890806</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99890806e"/>
+            <note>(EEBO-TCP ; phase 2, no. B25592)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 193669)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C27:4[36])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Lady Gray vindicated: being an answer to a popish pamphlet, entituled A true relation, of a strange apparition that appeared to the Lady Gray, commanding her to deliver a message to his Grace the Duke of Monmouth..</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Printed in the Year, 1681..</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Tankerville, Mary Grey, --  Countess of, d. 1719 --  Early works to 1800.</term>
+               <term type="personal_name">Monmouth, James Scott, --  Duke of, 1649-1685 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:193669:1"/>
+            <head>THE Lady GRAY VINDICATED: Being an Answer to a Popish Pamphlet, ENTITULED A True Relation, of a strange Apparition that appeared to the Lady <hi>GRAY,</hi> commanding her to deliver a Message to his Grace the Duke of <hi>MONMOUTH.</hi>
+            </head>
+            <p>WOnder not that I call it a Popish Pamphlet, since it's such a sweet smelling Sacrifice in the No<g ref="char:EOLhyphen"/>strils of every Roman Catho<g ref="char:EOLhyphen"/>lick, and so very acceptable to all Ab<g ref="char:EOLhyphen"/>horrors. A Man would think that <hi>Caryl,</hi> or <hi>L'Estrange,</hi> or <hi>Duffy</hi>'s Finger was in this Pye, be who he will that wrote it, the best Encomium he merits is
+<q>Monstrum horrendum, informe.</q> In his lying Pamphlet, he writes, I shall give you a true and perfect Relation, ac<g ref="char:EOLhyphen"/>cording to her own Deposition before Justice <hi>Ware,</hi> Sir <hi>W. Waller,</hi> Mr. <hi>Baxter,</hi> and Mr. <hi>Carlton,</hi> who he says stampt with his wooden Leg, and swore Damn him he believed it: Know that this true Re<g ref="char:EOLhyphen"/>lation is nothing but an absolute Fiction, compos'd I fancy by the same Hand that writ old <hi>Stafford</hi>'s Speech Satan's Kingdom is like to be destroyed, the Whore of <hi>Ba<g ref="char:EOLhyphen"/>bylon</hi> is ready to turn up her Heels, and quit the Protestant Borders; and now wonder not, if <hi>Belzebub</hi> be more than ordinary industrious to send his Trustees to secure his Interest, if either wicked Wit or Diabolical Art can draw off your Affections from the Duke of <hi>Monmouth,</hi> the Earls of <hi>Shaftsbury, Essex, &amp;c.</hi> what the Press blushes to see by day, shall be printed by the Devil at Night, so eager is he to indulge the Roman Crew.</p>
+            <p>He tells you on the 29th of <hi>January,</hi> the Lady being alone in her Closet, she heard this Apparition call her, <hi>Sweet Heart,</hi> which soon appeared to her in the shape of a bright Star, and blew Garter, and said, <hi>that the</hi> 15th <hi>day of</hi> May <hi>is ap<g ref="char:EOLhyphen"/>pointed for the Royal Blood to be poysoned, but be not afraid,</hi> said it, <hi>for I am sent to tell thee that</hi> James <hi>Duke of</hi> Monmouth, <hi>hath none of it in him.</hi>
+            </p>
+            <p>By this you may guess of what Religi<g ref="char:EOLhyphen"/>on the Ghost had been, and if you give way to the Truth of the Apparition (which no honest Man dare do, nor none but Knaves and Papists will do) you may easily guess that it was <hi>Stafford</hi>'s Ghost. But the Ghost was more impudent than the Devil, to say his Grace had not a drop of Royal Blood in him. Say he was not a Son lawfully begotten, yet you dare not say without blushing, that he had not a Royal Father; and surely that Royal Father, kept not all his Royal Blood to himself, when he begot him. But what dare you not say, nay what will you not swear? you that will <hi>Ridicule</hi> the Plot, and swear the five Jesuits died Martyrs, will by the Dictates of the same Religion swear, that <hi>James</hi> Duke of <hi>York,</hi> has more right to the Crown, than King <hi>Charles</hi> the Second, and that the Pope has more right to it than them both.</p>
+            <p>That which this Man (or rather this Devil) drives at in his feigned Appa<g ref="char:EOLhyphen"/>rition,
+<pb facs="tcp:193669:2"/>is, to lessen the Honour of the Duke of <hi>Monmouth,</hi> and ecclipse the Modesty of a vertuous Lady; but alas! such villanous Practices as these make them ten times more glorious than they are. God makes the same use of such Devils as this is, as Jewellers do of black Foyles, to make their Diamonds look with a better Lustre. The Moon lends never the worse Light, for the Dogs barking at it. It will not be in your Power to abate the Lustre of that bright Star you mention, till you have ruined One brighter than He. God preserve the King, and the Protestant Religion, and that Star ere long, I hope, will appear more glorious than ever: and then, <hi>Sweet-Heart,</hi> you may be glad of a Closet to hide your self in.</p>
+            <p>As to the Maid of <hi>Hatfield,</hi> if thou knowest her to be no Maid, thou know<g ref="char:EOLhyphen"/>est more (it may be) than she her self; and I shall say as little to her Apparition: It may be a Mistake in her, and it may not; I know there are false Spirits, as well as false Prophets, but none more false than thine.</p>
+            <p>In thy second Paragraph, the Spirit seems to ask the Lady these following Questions: <hi>If she remembred what it said before?</hi> She said, <hi>Yes: Do you believe it?</hi> and she said, <hi>Yes: Have you told it?</hi> and she said, <hi>No:</hi> Then said the peevish Spirit, <hi>Tell it the D. of</hi> M. <hi>from me, and bid him not go to</hi> Wapping. As to the Lady's Answers to the feigned Spirit's Questions, I dare be bold to answer thee, that she has a due Esteem for the D. of <hi>M.</hi> and so have the most part of the honest Lords, and the vertuous Ladies in the Kingdom. And tho Knaves and Fools labour to bespatter him, yet know, that his Star never shined half so bright yet, as I believe his Honour and Reputation will shine hereafter. As to this <hi>Wapping</hi>-Business, let the Tarpawlins there give thee an Answer, when thou darest write, <hi>Scriptum per me,</hi> at the tail on't.</p>
+            <p>In the third, the Popish Apparition bids the Lady tell <hi>James</hi> D. of <hi>M.</hi> — but is presently interrupted by her, it seems, with a, <hi>Don't you see him? Tell him your self, we are all alone.</hi> A sign thy Spirit, as thy Judgment, is blind: If the Spirit had eyes to see the way thither, methinks it should not have wanted them, to have seen a white Star on a black Suit. But this may pass with a Papist, who knows Infallibility belongs to their Family.</p>
+            <p>
+               <hi>February</hi> the 2d, it seems it was heard again, and talked invisibly to her, and prated as incoherently to her, as thou dost to Sence and Reason, viz. <hi>Bid</hi> James <hi>D. of</hi> M. <hi>go to the Tower, and venture the Lion, old</hi> Charles <hi>won't hurt him.</hi>— No, I hope old <hi>Charles</hi> hath more Wit than to hurt him, and I believe young <hi>Charles</hi> has more Grace. Then it bade tell him, <hi>That he has discovered the Weakness of his Party, in petitioning but with Fifteen after him.</hi> Tho but fifteen went, know, <hi>Gaffer Lack-Wit,</hi> that there will not be wanting fifteen times fifteen thousand, to petition the King for the Subjects Right, when an occasion re<g ref="char:EOLhyphen"/>quires it. This is a true, but a dreadful Story to such Popish Villains as thou seemest to be. Then said thy invisible Spirit, <hi>Bid all the Lords you know, have a care of Petitioning, unless they are disob<g ref="char:EOLhyphen"/>liged. — Tell my Lord</hi> Stamford, <hi>his Wife keeps her Bed. — Bid</hi> Shaftsbury <hi>have a care of his Spiggot; for if he is tapp'd, all the Plot will run out:</hi> But did it not say, If he is stabb'd, that Dag<g ref="char:EOLhyphen"/>ger, or that Cork will keep it in. I dare say, such Spirits do not desire to have Plots broach'd; for they wander abroad in half Sheets of Paper, like that of the Lady <hi>Gray,</hi> and Madam <hi>Fanshaw</hi>'s Ghost; and nothing can curb them, or lay them, like a Good Parliament.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
